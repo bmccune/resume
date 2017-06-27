@@ -1,0 +1,288 @@
+{
+
+  "name": "Brian J. McCune",
+
+  "meta": {
+    "format": "FRESH@0.4.0",
+    "version": "0.1.0"
+  },
+
+  "info": {
+    "label": "Application Development Manager",
+    "characterClass": "Programmer",
+    "brief": "I am entrenched in human interaction and how that translates to code. I love learning new languages and challenge my self constantly. I feel I would be a strong resource on any team.  I received my interactive media design degree from the Art Institute of California in 2008. After graduating I began working for Pacific Sunwear clothing as a front end developer. Quickly after joining I was promoted to Sr. Front End Developer. I learned quickly that working on a small team (2 developers) wasn't enough for me so I took a position with JP Morgan Chase and moved to San Francisco. I've grown a lot since then and now manage a team for JP Morgan Chase in Seattle.",
+    "image": "https://media.licdn.com/media/p/1/005/013/08a/10396d3.jpg"
+  },
+
+  "contact": {
+    "website": "http://bmccune.com",
+    "phone": "1-909-702-2211",
+    "email": "brian@bmccune.com",
+    "other": [
+      {
+        "label": "Home Phone",
+        "flavor": "phone",
+        "value": "1-650-999-4321"
+      },
+      {
+        "label": "Work Phone",
+        "flavor": "phone",
+        "value": "1-650-777-1234"
+      },
+      {
+        "label": "Personal Email",
+        "flavor": "email",
+        "value": "jane@janef.me"
+      }
+    ]
+  },
+
+  "location": {
+    "address": "7732 152nd st. se.\nSnohomish, WA 98296",
+    "city": "Snohomish",
+    "region": "WA",
+    "code": "98296",
+    "country": "US"
+  },
+
+  "social": [
+    {
+      "label": "GitHub",
+      "network": "GitHub",
+      "user": "bmccune",
+      "url": "https://github.com/bmccune"
+    },
+
+    {
+      "label": "Twitter",
+      "network": "Twitter",
+      "user": "brian_mccune",
+      "url": "https://twitter.com/brian_mccune"
+    }
+  ],
+
+  "employment": {
+
+    "summary": "7+ years industry IT and software development experience.",
+
+    "history": [
+
+      {
+        "employer": "JP Morgan Chase",
+        "url": "https://chase.com",
+        "position": "Software Development Manager",
+        "summary": "For the past 4 years I managed a team comprised of front-end and full stack developers working on re-usable code at Chase. At the beginning of the UI Framework I worked as an invidual developer and built a foundation, then hired developers to scale the platform which would eventualy grow to a team of 20 developers. That platform has since gone live with the redesigned chase.com. Recently I was asked to lead a new Architecture team that has me solving bigger problems across multiple applications.",
+        "start": "2013-01",
+        "current": true,
+        "keywords": ["Agile","PM","Amazon Web Services","AWS"],
+        "highlights": ["Directly managed an 8 person development team", "Built a UI Framewrok from the ground up", "Selected to the Expert Engineer Program", ""]
+      },
+
+      {
+        "employer": "JP Morgan Chase",
+        "url": "https://chase.com",
+        "position": "Software Development Lead",
+        "summary": "I was orignally hired to be a mid-level front-end developer on the UI Frameworks team, 3 months later I took over delivering a platform migration to a new application for high net worth clients. When I began the project, the team was being assigned 8-10 defects a day, with some changes to how we delievered and triaged defects that count quickly became 1-2 a day and we were able to meet our code lock dates. For the next year I was given projects that were in amber or red status and asked to solve tough code and proccess problems. During that time I was able to grow as a developer and as a leader. Our team maintained and built UI components that were part of a larger ASP/.Net framework used by hundreds of developers at Chase. Less then 2 years after I was hired I was promoted to Vice President and asked to build and support a new UI Library on JavaScript based framework.",
+        "start": "2011-03",
+        "end": "2013-01",
+        "keywords": ["C++","C","Linux"],
+        "highlights": ["Was promoted to team lead in 3 months", "Reduced project overhead with proccess changes", "Insourced a prototyping tool built with Ruby on Rails", "Built the first responsive application at JP Morgan Chase"]
+      },
+
+      {
+        "employer": "Pacific Sunwear",
+        "url" : "https://pacsun.com",
+        "position": "Sr. Front End Web Developer",
+        "summary": "I was in charge of developing any new functionality for PacSun.com and any related company assets. I also worked with the external vendors and internal departments to insure that all projects tracked according to expectations. The majority of my work was with Javascript, Jquery, Css, html, php, mysql, and managing multiple vendor systems. Some of them included but are not limited to: Fry, Omniture (site catalyst, test and target, merchandising, etc...), Akamai, MediaTemple, Usablenet, BillMyParents, etc...",
+        "start": "2008-07",
+        "end": "2011-03",
+        "keywords": ["Novell","Active Directory","Linux","Windows"],
+        "highlights": ["Promoted to Sr. Developer after 6 months", "Created a social network platform based on wordpress", "Implemented A/B and MVT testing for multiple efforts."]
+      },
+
+      {
+        "employer": "Bonnier Publications",
+        "url": "http://www.bonniercorp.com",
+        "position": "Online Editor",
+        "summary": "I was the online editor for www.quadmagazine.com. This entailed working with multiple advertisers to develop articles and test products on all the latest ATV trends. I took photos, video, edited both, wrote articles, and interviewed industry professionals. I also used my coding skills to make user experience changes within the constraints of a proprietary content managment tool.",
+        "start": "2007-08",
+        "end": "2008-10",
+        "keywords": ["Novell","Active Directory","Linux","Windows"],
+        "highlights": ["Increased Traffic through content and quality", "Enhanced customer interaction ", "Revenue increase due to new traffic and relationships with advertisers"]
+      }
+    ]
+
+  },
+
+  "education": {
+
+    "summary": "test",
+
+    "level": "degree",
+
+    "degree": "BSCS",
+
+    "history": [
+
+      {
+        "institution": "Art Institute of California",
+        "area" : "Science",
+        "studyType": "Bachelor",
+        "title": "BSCS",
+        "url": "https://www.artinstitutes.edu/",
+        "start": "2011-06",
+        "end": "2014-01",
+        "grade": "3.7",
+        "curriculum": ["Advanced Programming", "Interaction Design", "Layout Design", "Algorithms"]
+      }
+    ]
+
+  },
+
+  "skills": {
+
+    "sets": [
+      {
+        "name": "Web",
+        "level": "advanced",
+        "skills": [
+          "JavaScript", "HTML 5", "CSS3", "Bootstrap", "SASS", "Less", "LAMP", "MVC", "Java", "REST"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "master",
+        "skills": [
+          "Node.js", "Angular.js", "jQuery", "React.js", "require.js", "ractive.js", "wire.js"
+        ]
+      },
+      {
+        "name": "Database",
+        "level": "intermediate",
+        "skills": [
+          "MySQL", "MongoDB"
+        ]
+      },
+      {
+        "name": "Management",
+        "level": "intermediate",
+        "skills": [
+          "Strategic Thinking", "Collaboration", "Emotional Intelligence", "Critical Thinking", "Communication", "Coaching"
+        ]
+      },
+      {
+        "name": "Project",
+        "level": "intermediate",
+        "skills": [
+          "Agile", "Scrum"
+        ]
+      }
+    ],
+
+    "list": [
+      {
+        "name": "C++",
+        "id": "1",
+        "summary": "Optional summary of your experience with the skill.",
+        "level": "9",
+        "years": 7,
+        "proof": "http://myblog.com/interesting-cplusplus-post"
+      },
+      {
+        "name": "Ruby",
+        "id": "2",
+        "summary": "Optional summary of your experience with the skill.",
+        "level": "9",
+        "years": 7,
+        "proof": "http://myblog.com/interesting-cplusplus-post"
+      },
+      {
+        "name": "Xcode",
+        "summary": "Xcode 6 development.",
+        "level": "5",
+        "years": "3"
+      },
+      {
+        "name": "Linux",
+        "summary": "Optional summary of your experience with the skill.",
+        "level": "advanced",
+        "years": "4+"
+      },
+      {
+        "name": "Agile",
+        "summary": "Optional summary of your experience with the skill.",
+        "level": "B+",
+        "years": 2
+      }
+    ]
+  },
+
+  "recognition": [
+    {
+      "flavor": "award",
+      "from": "JP Morgan Chase",
+      "title": "Expert Engineer",
+      "url": "http://google.com",
+      "summary": "The Expert Engineer (E2) Program establishes and develops a network of Expert Engineers across the JP Morgan Chase Organization, enhancing the business value of technology solutions. It is a key leadership program aimed at developing and retaining key technical talent across the firm."
+    }
+  ],
+
+  "references": [
+    {
+      "name": "John Davidson",
+      "flavor": "professional",
+      "private": true,
+      "contact": [
+        {
+          "label": "Mobile",
+          "flavor": "phone",
+          "value": "9-(999)-999-9999"
+        },
+        {
+          "label": "Work email",
+          "flavor": "email",
+          "value": "jdavidson@veridiandynamics.com"
+        }
+      ]
+    }
+  ],
+
+  "testimonials": [
+    {
+      "name": "John Davidson",
+      "flavor": "professional",
+      "quote": "Jane is awesome! I'd hire her again in a heartbeat.",
+      "private": true
+    },
+    {
+      "name": "Elias Fullstacker",
+      "flavor": "technical",
+      "quote": "I worked with Jane on Jabberwocky and can vouch for her awesome technical capabilities and attention to detail. Insta-hire."
+    },
+    {
+      "name": "Dana Nevins",
+      "flavor": "personal",
+      "quote": "I've known Jane personally and professionally for almost ten years. She is one in a million."
+    }
+  ],
+
+  "languages": [
+    {
+      "language": "English",
+      "level": "Native"
+    }
+  ],
+
+  "interests": [
+    {
+      "name": "Fishing",
+      "summary": "Brian is an avid fisherman, fishing locally in Puget Sound, Alaska, and Mexico."
+    },
+    {
+      "name": "Hiking",
+      "summary": "Enjoys hiking, looking to get into overnight hikes in the near future."
+    }
+  ]
+
+
+}
